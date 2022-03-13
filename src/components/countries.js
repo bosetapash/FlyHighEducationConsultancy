@@ -39,14 +39,14 @@ export const countries = [
       {
             id: '6',
             name: 'Study In Belgium',
-            info: "Belgian higher education is managed by two main language communities. Education  enjoys high priority in Belgium and the largest share of government's' annual regional budget. Since the adoption of the Bologna process, higher education in Belgium is organised as per the bachelor and master system. In Belgium, there are 104 Colleges and Universities that provide pupils, many courses/programmes to choose from.  In general terms, higher education in Belgium can be classified into University, higher education institutions and Colleges of Arts. The universities provide long term courses for bachelor’s, master’s and postgraduate studies. The higher education institutions and Colleges of Arts provide long-term programmes for bachelor’s and Master’s studies or short-term courses for vocational bachelor’s degree. ",
+            info: "Belgian higher education is managed by two main language communities. Education  enjoys high priority in Belgium and the largest share of government's' annual regional budget. Since the adoption of the Bologna process, higher education in Belgium is organised as per the bachelor and master system. In Belgium, there are 104 Colleges and Universities that provide pupils, many courses/programmes to choose from.  In general terms, higher education in Belgium can be classified into University, higher education institutions and Colleges of Arts. The universities provide long term courses for bachelors, masters and postgraduate studies. The higher education institutions and Colleges of Arts provide long-term programmes for bachelors and Masters studies or short-term courses for vocational bachelors degree. ",
             image:"https://assets.traveltriangle.com/blog/wp-content/uploads/2018/05/A-buzzing-hub-of-art-enthusiasts-ss22052018.jpg",
             price:"1,995"
       },
       {
             id: '7',
             name: 'Study In Netherlands',
-            info: "The Netherlands is a great destination for international students looking for quality education in Europe.The Dutch environment and people are very friendly towards foreign students and there are many English-taught programmes available. On our portals alone, you can find over 400 Bachelor’s and 1,400 Master’s degrees in the Netherlands.",
+            info: "The Netherlands is a great destination for international students looking for quality education in Europe.The Dutch environment and people are very friendly towards foreign students and there are many English-taught programmes available. On our portals alone, you can find over 400 Bachelors and 1,400 Masters degrees in the Netherlands.",
             image:"https://nypost.com/wp-content/uploads/sites/2/2019/05/holland-attractions.jpg?quality=80&strip=all&w=744",
             price:"1,995"
       },
